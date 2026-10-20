@@ -1,0 +1,8 @@
+// LC 329. Longest Increasing Path in a Matrix
+// https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
+
+class LongestIncreasingPathInAMatrix {
+    public int longestIncreasingPath(int[][] matrix) {
+        // your code here
+    }
+}
